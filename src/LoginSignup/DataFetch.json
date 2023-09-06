@@ -1,0 +1,73 @@
+{
+  "confirmPassword": {
+    "data": "Test@123",
+    "errorMessage": "Passwords do not match",
+    "config": {
+      "type": "password",
+      "name": "cpassword",
+      "placeholder": "Re-Enter your password"
+    }
+  },
+  "country": {
+    "data": "",
+    "errorMessage": null,
+    "config": {
+      "type": "text",
+      "name": "country",
+      "placeholder": "Country"
+    }
+  },
+  "email": {
+    "data": "",
+    "config": {
+      "type": "email",
+      "name": "email",
+      "placeholder": "Your Mail id"
+    }
+  },
+  "name": {
+    "data": "",
+    "errorMessage": null,
+    "config": {
+      "type": "text",
+      "name": "name",
+      "placeholder": "Youe Name"
+    }
+  },
+  "password": {
+    "data": "",
+    "errorMessage": null,
+    "config": {
+      "type": "password",
+      "name": "password",
+      "placeholder": "Enter new password"
+    }
+  },
+  "phone": {
+    "data": "",
+    "errorMessage": null,
+    "config": {
+      "type": "text",
+      "name": "phone",
+      "placeholder": "Phone"
+    }
+  },
+  "street": {
+    "data": "",
+    "errorMessage": null,
+    "config": {
+      "type": "text",
+      "name": "street",
+      "placeholder": "Street"
+    }
+  },
+  "zipcode": {
+    "data": "",
+    "errorMessage": null,
+    "config": {
+      "type": "text",
+      "name": "zipcode",
+      "placeholder": "Zipcode"
+    }
+  }
+}
